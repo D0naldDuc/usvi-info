@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Thomas Information</title>
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        h1, h2, h3 {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>St. Thomas Information</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chelonia_mydas_is_going_for_the_air_edit.jpg/330px-Chelonia_mydas_is_going_for_the_air_edit.jpg" alt="Sea Turtle" width="500" height="300">
+        <p><strong>Diving at <a href="https://en.wikipedia.org/wiki/Coki_Beach" target="_blank">Coki Beach</a></strong><br>
+            Photo: Madelyn Avery</p>
+
+        <p>The island is serviced by the <a href="https://www.viport.com/" target="_blank">Cyril E. King International Airport</a>
+            and the <a href="https://www.viport.com/harbor-seaplane-base/" target="_blank">Charlotte Amalie Harbor Seaplane
+                Base</a>.</p>
+
+        <p>Passenger and limited car-ferry services to neighboring islands such as <a href="https://www.visitwaterisland.com/"
+                target="_blank">Water Island</a>, <a href="https://www.visitusvi.com/st-john" target="_blank">Saint John</a>,
+            <a href="https://www.gotostcroix.com/" target="_blank">Saint Croix</a>, and the <a
+                href="https://www.bvitourism.com/" target="_blank">British Virgin Islands</a> run regularly out of the <a
+                href="https://redhookferries.com/" target="_blank">Red Hook Terminal</a>, <a
+                href="https://www.visitusvi.com/charlotte-amalie" target="_blank">Charlotte Amalie</a>, and <a
+                href="https://crownbay.com/" target="_blank">Crown Bay Marina</a>.</p>
+
+        <p>The United States Virgin Islands is the only place under United States jurisdiction where the rule of the road
+            is to drive on the left. This was inherited from what was the then-current Danish practice at the time of the
+            American acquisition in 1917. However, because the islands are a U.S. territory, most cars are imported from the
+            mainland United States and therefore the steering column is located on the left side of the vehicle.</p>
+
+        <h2>Schools</h2>
+        <p><a href="https://www.vide.vi/" target="_blank">St. Thomas-St. John School District</a> operates public schools
+            on Saint Thomas.</p>
+
+        <h3>Private schools:</h3>
+        <ul>
+            <li><a href="https://www.antilles.vi/" target="_blank">Antilles School</a></li>
+            <li><a href="https://www.vimsia.org/" target="_blank">Virgin Islands Montessori School & Peter Gruber
+                    International Academy</a></li>
+        </ul>
+
+        <h3>Colleges and universities:</h3>
+        <ul>
+            <li><a href="https://www.uvi.edu/" target="_blank">University of the Virgin Islands</a></li>
+        </ul>
+    </div>
+</body>
+
+</html>
